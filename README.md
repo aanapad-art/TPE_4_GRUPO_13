@@ -24,8 +24,8 @@ consultas parametrizadas y comparar los resultados.
 - Git y GitHub.
 - Navegador web.
 
-La práctica se realizó en PyCharm. El proyecto también puede ejecutarse
-en Visual Studio Code utilizando Python y las mismas dependencias.
+La práctica se realizó en PyCharm. 
+El proyecto también puede ejecutarse en Visual Studio Code utilizando Python y las mismas dependencias.
 El manual incluye instrucciones para ambos editores.
 Las versiones de las dependencias se encuentran en requirements.txt.
 
