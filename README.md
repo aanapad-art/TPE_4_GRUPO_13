@@ -15,7 +15,8 @@ autenticación y la extracción de registros. Posteriormente, aplicar
 consultas parametrizadas y comparar los resultados.
 
 ## Herramientas utilizadas
-
+- PyCharm: IDE utilizado para desarrollar y ejecutar la práctica.
+- Visual Studio Code: editor indicado en la guía docente, con instrucciones de ejecución incluidas en MANUAL_USO.md.
 - Python 3.12.
 - Flask.
 - SQLite, mediante el módulo sqlite3 de Python.
@@ -23,6 +24,9 @@ consultas parametrizadas y comparar los resultados.
 - Git y GitHub.
 - Navegador web.
 
+La práctica se realizó en PyCharm. El proyecto también puede ejecutarse
+en Visual Studio Code utilizando Python y las mismas dependencias.
+El manual incluye instrucciones para ambos editores.
 Las versiones de las dependencias se encuentran en requirements.txt.
 
 ## Componentes del proyecto
